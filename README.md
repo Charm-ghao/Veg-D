@@ -1,2 +1,2 @@
-# Aveg
-Anomaly vegetation data
+# Veg-D
+vegetation destruction data
