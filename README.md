@@ -5,4 +5,4 @@
 # Veg-D
 The vegetation destruction data (include Veg-DMTV and Veg-DD) can be accessed on Google Cloud Drive: https://drive.google.com/drive/folders/1mHB_v7n0fiib0aV6-uEQgEDzP-_3n-i-?usp=drive_link
 The currently released dataset is an initial version, and we will continue to expand the sample size and optimize data quality in the future to provide more comprehensive data support.
-If you have any questions, please contact chuanwu@mail.bnu.edu.cn
+If you have any questions, please contact chuanwu@mail.bnu.edu.cn.
